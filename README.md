@@ -14,5 +14,3 @@ You can simply download the file ```speechrecog.py``` and the dataset from -- <u
 and train the model on your system by running the model on your system.
 
 Alternatively you can use the pre trained model uploaded ```model.pickle``` and use the ```predict.py``` file to run the model.
-
-### Result
